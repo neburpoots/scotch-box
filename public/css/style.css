@@ -1,0 +1,13 @@
+nav {
+    font-size: 14px;
+}
+
+.nav-link {
+    padding: 15px !important;
+}
+
+.form-inline {
+    margin-left: auto !important;
+    font-size: 14px !important;
+    
+}

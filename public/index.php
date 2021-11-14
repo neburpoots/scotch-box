@@ -386,7 +386,7 @@ main {
                             <h1>
                                 🤩 🚀 😎 🐕
                                 <br>
-                                Welcome to Scotch Box
+                                Wat een lelijke troep website
                             </h1>
                             <p>Free Version 3.5 ❤️</p>
                         </div>
